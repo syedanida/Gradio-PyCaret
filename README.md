@@ -50,8 +50,7 @@
 <h2 id="video-tutorials">Video Tutorials</h2>
 <p>Watch the full tutorial on how to implement these examples:</p>
 <ul>
-    <li><strong>Text Classification Tutorial</strong>: <a href="#link-to-video-1" target="_blank">Watch Here</a></li>
-    <li><strong>Image Classification Tutorial</strong>: <a href="#link-to-video-2" target="_blank">Watch Here</a></li>
+    <li><a href="https://youtu.be/6in8Fz7tFuY">Text Classification And Image Classification Tutorial</a></li>
 </ul>
 
 </body>
